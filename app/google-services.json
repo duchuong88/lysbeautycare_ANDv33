@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "123798365208",
+    "firebase_url": "https://lys-beauty-care-default-rtdb.firebaseio.com",
+    "project_id": "lys-beauty-care",
+    "storage_bucket": "lys-beauty-care.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123798365208:android:8bcde5c1ad3fb5d729cf6d",
+        "android_client_info": {
+          "package_name": "lysbeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMITcQs685iGNYR04ebOpg8bX08pXLdYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123798365208:android:9cb0d541b8b0ba7329cf6d",
+        "android_client_info": {
+          "package_name": "vn.aiviclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMITcQs685iGNYR04ebOpg8bX08pXLdYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123798365208:android:becd1202c684a35a29cf6d",
+        "android_client_info": {
+          "package_name": "vn.aiviclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMITcQs685iGNYR04ebOpg8bX08pXLdYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
